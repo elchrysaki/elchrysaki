@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://elchrysaki.github.io/"><img alt="Boot full archive" src="https://img.shields.io/badge/BOOT_FULL_ARCHIVE-E9781D?style=for-the-badge&labelColor=07110E" /></a>
-  <a href="https://github.com/elchrysaki/offmap-hub"><img alt="Open OffMap" src="https://img.shields.io/badge/OFFMAP-3CD6C5?style=for-the-badge&labelColor=07110E" /></a>
+  <a href="https://offmap.gr"><img alt="Open OffMap" src="https://img.shields.io/badge/OFFMAP-3CD6C5?style=for-the-badge&labelColor=07110E" /></a>
   <a href="mailto:helenachrysaki@gmail.com"><img alt="Send a signal" src="https://img.shields.io/badge/SEND_A_SIGNAL-D6FF70?style=for-the-badge&labelColor=07110E" /></a>
 </p>
 
@@ -18,7 +18,7 @@
 
 | Node | Transmission | Status |
 |:--|:--|:--|
-| `OFFMAP` | A map for places and experiences that escape the usual routes. | [PUBLIC NODE ↗](https://github.com/elchrysaki/offmap-hub) |
+| `OFFMAP` | A map for places and experiences that escape the usual routes. | [VISIT OFFMAP ↗](https://offmap.gr) |
 | `EUROAVIA` | A community app for the European aerospace network. | `ACTIVE BUILD` |
 | `AEROPET` | An aerospace desktop companion with a pulse. | `EXPERIMENTAL` |
 | `MARKET` | Websites, portfolios, AI skills, research and commissioned systems. | [ENTER ARCHIVE ↗](https://elchrysaki.github.io/) |
